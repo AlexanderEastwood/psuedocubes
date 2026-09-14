@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "authorization": "Deploy on the other idle GPUs",
+  "base_config": "pseudocube_619_production.json",
+  "device_uuids": [
+    "GPU-88d1c9ce-f70f-4ee3-05ba-350eb3a726be",
+    "GPU-3ad74105-fba6-b76a-9571-a248e4e57758",
+    "GPU-b704e2c1-b3cd-fe77-f50c-47b494c7633e",
+    "GPU-c807c219-7dbe-155c-0244-9aeea29115f6"
+  ],
+  "ownership": "one-unfinished-lease-per-device-no-expiry",
+  "coverage": "shared-contiguous-frontier-with-out-of-order-commits"
+}

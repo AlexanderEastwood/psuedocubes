@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "status": "awaiting_search_completion_and_claim_verification",
+  "sequence_id": null,
+  "index_mapping_verified": false,
+  "exact_terms": [],
+  "submission_sent": false,
+  "note": "Confirm the pseudocube sequence and evidence before preparing exact indexed terms. A002189 is a pseudosquare sequence and is not the target."
+}

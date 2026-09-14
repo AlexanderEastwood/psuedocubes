@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the repository commit or release used, alongside the mathematical sources in the README."
+title: "Pseudocube search with CRT windows and GPU residue bitsets"
+type: software
+authors:
+  - family-names: Eastwood
+    given-names: Alex
+version: 0.1.0
+date-released: 2026-09-14
+url: "https://github.com/AlexanderEastwood/psuedocubes"
+repository-code: "https://github.com/AlexanderEastwood/psuedocubes"
+abstract: "Reproducible arithmetic, GPU matching, durable coverage and reporting tools for a bounded p=619 pseudocube search. Initial release documents an ongoing computation and does not claim a new exact sequence term."

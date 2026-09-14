@@ -1,0 +1,5 @@
+{
+  "venvPath": ".", "venv": ".venv", "pythonVersion": "3.12", "typeCheckingMode": "basic",
+  "include": ["pseudocube", "tools", "review", "tests", "search_cube.py"],
+  "exclude": ["node_modules", "**/__pycache__", ".Codex/worktrees", "artifacts", "build", "data"]
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "measured_utc": "2026-09-14T22:55:09.375462+00:00",
+  "campaign_state": "searching",
+  "domain": {
+    "p": 619,
+    "lo_exclusive": "1000000000000000000000000000",
+    "hi_inclusive": "3000000000000000000000000000",
+    "canonical_v_end": "693110504329192503"
+  },
+  "committed_v_end": "8606867200000000",
+  "allocation_v_end": "8613420800000000",
+  "unfinished_leases": 4,
+  "candidate_values": [],
+  "structural_audit": null,
+  "production_build": "9bdb452a5485eb3b3f40de928fa114e46b71f7cec3950e95df8734470c692530",
+  "counts": {
+    "commits": "43558",
+    "candidates": "1441106648213341",
+    "cubes": "475854",
+    "subtiles": "86068672"
+  },
+  "performance": {
+    "measured_utc": "2026-09-14T22:41:47Z",
+    "sample_seconds": 30,
+    "candidates_per_second": 923557657686,
+    "ten_minute_candidates_per_second": 925677568971,
+    "includes_durable_commits": true
+  },
+  "historical_lower_bound": {
+    "value": "1000000000000000000000000000",
+    "source": "https://arxiv.org/abs/1001.3316v2",
+    "independently_reproduced": false
+  }
+}
