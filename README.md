@@ -2,7 +2,7 @@
 
 Implementation and reporting repository for the **p=619 pseudocube search**. The repository name retains the requested spelling, `psuedocubes`.
 
-The active search covers **10^27 < x ≤ 3×10^27**. It is still running; no new exact pseudocube value or OEIS term is claimed. See [current reporting snapshot](results/current.json), [method and benchmarks](reports/method.html), and [mathematical contract](docs/mathematics.md).
+The primary search of **10^27 < x ≤ 3×10^27** completed on **September 16, 2026 at 05:12 Pacific**. The full-coverage structural audit passed, and the sole reported qualifying noncube is **2082301388064549408087113327**, independently verified for p=619. Independent arithmetic replay and the historical lower-bound assurance remain outstanding; no certified global minimum or exact OEIS term is claimed. See the [completion report](reports/completion-2026-09-16.html), [current reporting snapshot](results/current.json), [method and benchmarks](reports/method.html), and [mathematical contract](docs/mathematics.md).
 
 Four RTX 5080s measured approximately **0.93 trillion focused candidate positions/second**, including durable checkpoint commits, in the September 14, 2026 deployment sample: about **30×** the preceding complete pipeline. These are logical candidate positions, including those excluded in bulk by bitsets, not individual wide multiplications or active CUDA-core counts. The initial remaining-range estimate was about 35 hours; it is a timestamped projection. [Machine-readable benchmarks](results/benchmarks-2026-09-14.json) distinguish compute-only and durable measurements.
 
@@ -47,7 +47,7 @@ The copied historical configuration files and helper functions retain their orig
 
 `python tools/render_report.py --snapshot results/current.json --output reports/current.html` produces a timestamped HTML report and an OEIS preparation JSON. The input snapshot contains only public search/evidence fields, not access credentials or host configuration. [Reporting and OEIS workflow](docs/reporting.md) distinguishes candidate validity, interval exhaustion, historical bounds and exact terms. The appropriate pseudocube OEIS entry and indexing still need confirmation; **A002189 is the pseudosquare sequence and is not a target for this run**.
 
-The operator will freeze and audit the completion evidence, verify candidates, update this repository and prepare an OEIS submission package. No b-file is fabricated from a bound or an unproved minimum. Full receipt archives remain separate from Git and can be published as versioned release assets after their provenance and public contents are reviewed.
+The completion ledger and historical receipts are frozen; the structural audit and witness verification passed. The [completion evidence](results/completion-2026-09-16/) records source/snapshot hashes and the exact match to two independent CPU cube-count controls. An [OEIS witness/upper-bound draft](oeis/draft.html) is prepared but has not been submitted; its destination and public evidence link still need confirmation. No b-file is fabricated from a bound or an unproved minimum. Full receipt archives remain separate from Git and can be published as versioned release assets after their provenance and public contents are reviewed.
 
 ## Source layout
 

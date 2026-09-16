@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "status": "verified-upper-bound-draft-destination-unresolved",
+  "status": "primary-search-complete-witness-draft-awaiting-entry-and-minimality-review",
   "sequence_id": null,
   "index_mapping_verified": false,
   "exact_terms": [],
@@ -18,5 +18,9 @@
   ],
   "evidence_claim": "Valid p=619 pseudocube witness: 2082301388064549408087113327. This supplies an upper bound only.",
   "minimality_proved": false,
-  "source_build": "178647508a9f58081fda47b9ef6549e2f7178134f2de12775474a4e91405a6fb"
+  "source_build": "178647508a9f58081fda47b9ef6549e2f7178134f2de12775474a4e91405a6fb",
+  "primary_search_complete": true,
+  "structural_audit": "PASS",
+  "independent_arithmetic_replay": false,
+  "completion_record": "results/completion-2026-09-16/completion.json"
 }

@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "status": "PRIMARY_SEARCH_COMPLETE_AUDIT_PASS",
+  "completed_at_pacific": "2026-09-16T05:12:02.813032-07:00",
+  "observed_at_utc": "2026-09-16T15:43:00.935927+00:00",
+  "interval": {
+    "p": 619,
+    "lo_exclusive": "1000000000000000000000000000",
+    "hi_inclusive": "3000000000000000000000000000",
+    "canonical_v_end": "693110504329192503"
+  },
+  "unique_noncube_outputs": [
+    "2082301388064549408087113327"
+  ],
+  "counts": {
+    "commits": "461346",
+    "candidates": "116052349039069168",
+    "cubes": "38322775",
+    "subtiles": "6931105044"
+  },
+  "source_build": "178647508a9f58081fda47b9ef6549e2f7178134f2de12775474a4e91405a6fb",
+  "independent_cube_count_controls": [
+    {
+      "algorithm": "byte-segment",
+      "root_first": "1000000001",
+      "root_last": "1442249570",
+      "p": 619,
+      "count": "38322775",
+      "working_bytes": 1048576
+    },
+    {
+      "algorithm": "odd-bit-segment",
+      "root_first": "1000000001",
+      "root_last": "1442249570",
+      "p": 619,
+      "count": "38322775",
+      "working_bytes": 1048576
+    }
+  ],
+  "full_contiguous_primary_coverage": true,
+  "structural_audit": "PASS",
+  "independent_arithmetic_replay": false,
+  "minimality_proved": false,
+  "historical_lower_bound_reproduced": false,
+  "oeis_submission_sent": false,
+  "exact_b_file_ready": false
+}

@@ -1,0 +1,9 @@
+{
+  "n": "2082301388064549408087113327",
+  "p": 619,
+  "cube_root_floor": "1276971475",
+  "perfect_cube": false,
+  "failing_primes": [],
+  "valid_pseudocube": true,
+  "claim": "Candidate validity only; no minimality claim."
+}

@@ -1,6 +1,6 @@
 # Reporting and OEIS preparation
 
-The p=619 search resumed on September 15, 2026 (Pacific), after Alex authorized completing the remaining space. The prior verified candidate and all completed receipts are preserved; further candidates do not stop the resumed run. See `reports/candidate-2026-09-15.html`. Every status file must record its UTC measurement time and whether it describes live counters, a frozen structural audit, or independently replayed arithmetic. Performance snapshots are observations, not completion certificates.
+The primary p=619 search completed on September 16, 2026 at 05:12 Pacific. Full contiguous coverage and the frozen structural audit passed; the original verified witness remains the only reported qualifying noncube. Independent arithmetic replay and the historical lower-bound assurance remain outstanding. See `reports/completion-2026-09-16.html`. Every status file must preserve its measurement time and evidence level.
 
 ## On completion or a candidate-triggered stop
 

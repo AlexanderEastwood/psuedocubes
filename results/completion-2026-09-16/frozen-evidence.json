@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "snapshot_name": "20260916-complete",
+  "frozen_coverage_sqlite_sha256": "e3846b3af27066644a473a1360ea58103b4577b71f82f783f67618020cdc7c5a",
+  "remote_audit_file_sha256": "716476586f1d256f58137bdf3b4f345b3b8bcb2c9d8135dbcbb4dc4848f9721c",
+  "release_manifest_sha256": "befc165e1ce00b1aa76d8b89bed752056e6612c20183b764c6c61e18088c108b",
+  "snapshot_storage": "Quad validation archive; live ledger unchanged",
+  "complete_snapshot_approximate_disk_bytes": "2.1 GiB",
+  "historical_receipts_and_imported_evidence_preserved": true,
+  "full_snapshot_downloaded": false,
+  "production_build": "178647508a9f58081fda47b9ef6549e2f7178134f2de12775474a4e91405a6fb",
+  "independent_arithmetic_replay": false,
+  "minimality_proved": false
+}
