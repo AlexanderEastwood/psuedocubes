@@ -1,6 +1,6 @@
 # Reporting and OEIS preparation
 
-The p=619 search stopped on a verified candidate on September 15, 2026 (Pacific), with partial canonical coverage. See `reports/candidate-2026-09-15.html`. Every status file must record its UTC measurement time and whether it describes live counters, a frozen structural audit, or independently replayed arithmetic. Performance snapshots are observations, not completion certificates.
+The p=619 search resumed on September 15, 2026 (Pacific), after Alex authorized completing the remaining space. The prior verified candidate and all completed receipts are preserved; further candidates do not stop the resumed run. See `reports/candidate-2026-09-15.html`. Every status file must record its UTC measurement time and whether it describes live counters, a frozen structural audit, or independently replayed arithmetic. Performance snapshots are observations, not completion certificates.
 
 ## On completion or a candidate-triggered stop
 
