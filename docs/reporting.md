@@ -1,6 +1,6 @@
 # Reporting and OEIS preparation
 
-The search is ongoing. Every status file must record its UTC measurement time and whether it describes live counters, a frozen structural audit, or independently replayed arithmetic. Performance snapshots are observations, not completion certificates.
+The p=619 search stopped on a verified candidate on September 15, 2026 (Pacific), with partial canonical coverage. See `reports/candidate-2026-09-15.html`. Every status file must record its UTC measurement time and whether it describes live counters, a frozen structural audit, or independently replayed arithmetic. Performance snapshots are observations, not completion certificates.
 
 ## On completion or a candidate-triggered stop
 

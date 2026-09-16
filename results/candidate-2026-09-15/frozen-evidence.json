@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "snapshot_name": "20260916-candidate-stop",
+  "frozen_coverage_sqlite_sha256": "bfbeb4ccc778f59a0b0e272f9a6fdbf84e13ae629c0877af15d559ba6d4e632d",
+  "receipt_snapshot_preserved": true,
+  "snapshot_storage": "Quad validation archive; live ledger unchanged",
+  "full_snapshot_downloaded": false,
+  "production_build": "9bdb452a5485eb3b3f40de928fa114e46b71f7cec3950e95df8734470c692530",
+  "first_worker_candidate_stop_utc": "2026-09-16T03:17:23.724422+00:00",
+  "independent_arithmetic_replay": false
+}

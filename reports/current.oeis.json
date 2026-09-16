@@ -1,1 +1,22 @@
-{"evidence_claim":"The configured interval is not yet established as exhausted.","exact_terms":[],"index_mapping_verified":false,"minimality_proved":false,"schema_version":1,"sequence_id":null,"source_build":"9bdb452a5485eb3b3f40de928fa114e46b71f7cec3950e95df8734470c692530","status":"draft-awaiting-entry-and-claim-review","submission_sent":false,"verified_witnesses":[]}
+{
+  "schema_version": 1,
+  "status": "verified-upper-bound-draft-destination-unresolved",
+  "sequence_id": null,
+  "index_mapping_verified": false,
+  "exact_terms": [],
+  "submission_sent": false,
+  "verified_witnesses": [
+    {
+      "n": "2082301388064549408087113327",
+      "p": 619,
+      "cube_root_floor": "1276971475",
+      "perfect_cube": false,
+      "failing_primes": [],
+      "valid_pseudocube": true,
+      "claim": "Candidate validity only; no minimality claim."
+    }
+  ],
+  "evidence_claim": "Valid p=619 pseudocube witness: 2082301388064549408087113327. This supplies an upper bound only.",
+  "minimality_proved": false,
+  "source_build": "9bdb452a5485eb3b3f40de928fa114e46b71f7cec3950e95df8734470c692530"
+}

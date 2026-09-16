@@ -1,0 +1,700 @@
+{
+  "n": "2082301388064549408087113327",
+  "p": 619,
+  "cube_root_floor": "1276971475",
+  "perfect_cube": false,
+  "failing_primes": [],
+  "valid_pseudocube": true,
+  "claim": "Candidate validity only; no minimality claim.",
+  "mod9": 8,
+  "cube_below": "2082301386482993109277796875",
+  "cube_above": "2082301391374961556999738176",
+  "checked_prime_count": 114,
+  "residue_checks": [
+    {
+      "q": 2,
+      "residue": 1,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 3,
+      "residue": 2,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 5,
+      "residue": 2,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 7,
+      "residue": 6,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 11,
+      "residue": 6,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 13,
+      "residue": 12,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 17,
+      "residue": 8,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 19,
+      "residue": 11,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 23,
+      "residue": 13,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 29,
+      "residue": 9,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 31,
+      "residue": 29,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 37,
+      "residue": 27,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 41,
+      "residue": 32,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 43,
+      "residue": 42,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 47,
+      "residue": 32,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 53,
+      "residue": 50,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 59,
+      "residue": 37,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 61,
+      "residue": 24,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 67,
+      "residue": 42,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 71,
+      "residue": 8,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 73,
+      "residue": 51,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 79,
+      "residue": 10,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 83,
+      "residue": 2,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 89,
+      "residue": 79,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 97,
+      "residue": 27,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 101,
+      "residue": 26,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 103,
+      "residue": 22,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 107,
+      "residue": 10,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 109,
+      "residue": 105,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 113,
+      "residue": 67,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 127,
+      "residue": 40,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 131,
+      "residue": 41,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 137,
+      "residue": 104,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 139,
+      "residue": 82,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 149,
+      "residue": 50,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 151,
+      "residue": 44,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 157,
+      "residue": 82,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 163,
+      "residue": 125,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 167,
+      "residue": 6,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 173,
+      "residue": 51,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 179,
+      "residue": 36,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 181,
+      "residue": 141,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 191,
+      "residue": 104,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 193,
+      "residue": 50,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 197,
+      "residue": 87,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 199,
+      "residue": 42,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 211,
+      "residue": 206,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 223,
+      "residue": 14,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 227,
+      "residue": 202,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 229,
+      "residue": 212,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 233,
+      "residue": 99,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 239,
+      "residue": 66,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 241,
+      "residue": 26,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 251,
+      "residue": 36,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 257,
+      "residue": 129,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 263,
+      "residue": 249,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 269,
+      "residue": 265,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 271,
+      "residue": 263,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 277,
+      "residue": 217,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 281,
+      "residue": 60,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 283,
+      "residue": 199,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 293,
+      "residue": 192,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 307,
+      "residue": 273,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 311,
+      "residue": 273,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 313,
+      "residue": 234,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 317,
+      "residue": 280,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 331,
+      "residue": 316,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 337,
+      "residue": 127,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 347,
+      "residue": 9,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 349,
+      "residue": 239,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 353,
+      "residue": 199,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 359,
+      "residue": 85,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 367,
+      "residue": 141,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 373,
+      "residue": 139,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 379,
+      "residue": 76,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 383,
+      "residue": 238,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 389,
+      "residue": 294,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 397,
+      "residue": 298,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 401,
+      "residue": 301,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 409,
+      "residue": 31,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 419,
+      "residue": 60,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 421,
+      "residue": 298,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 431,
+      "residue": 364,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 433,
+      "residue": 265,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 439,
+      "residue": 165,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 443,
+      "residue": 22,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 449,
+      "residue": 117,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 457,
+      "residue": 83,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 461,
+      "residue": 250,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 463,
+      "residue": 451,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 467,
+      "residue": 289,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 479,
+      "residue": 418,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 487,
+      "residue": 189,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 491,
+      "residue": 193,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 499,
+      "residue": 74,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 503,
+      "residue": 492,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 509,
+      "residue": 170,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 521,
+      "residue": 14,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 523,
+      "residue": 269,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 541,
+      "residue": 305,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 547,
+      "residue": 292,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 557,
+      "residue": 279,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 563,
+      "residue": 445,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 569,
+      "residue": 72,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 571,
+      "residue": 182,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 577,
+      "residue": 334,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 587,
+      "residue": 321,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 593,
+      "residue": 308,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 599,
+      "residue": 306,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 601,
+      "residue": 105,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 607,
+      "residue": 213,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 613,
+      "residue": 512,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 617,
+      "residue": 33,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    },
+    {
+      "q": 619,
+      "residue": 212,
+      "nonzero": true,
+      "cubic_residue_by_enumeration": true
+    }
+  ],
+  "verifier_sha256": "061682e225b11331f5ba25d7466d0f71198630ab5f9decad1be5a25491b2f141"
+}

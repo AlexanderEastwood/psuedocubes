@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "imported_prefix": "134259200000000",
+  "committed_v_end": "575229484800000000",
+  "allocated_v_end": "575229484800000000",
+  "totals": {
+    "commits": 389397,
+    "candidates": 96314705425637743,
+    "cubes": 31805547,
+    "subtiles": 5752294848
+  },
+  "worker_commits": {
+    "GPU-88d1c9ce-f70f-4ee3-05ba-350eb3a726be": 95732,
+    "GPU-3ad74105-fba6-b76a-9571-a248e4e57758": 93609,
+    "GPU-b704e2c1-b3cd-fe77-f50c-47b494c7633e": 92401,
+    "GPU-c807c219-7dbe-155c-0244-9aeea29115f6": 86677
+  },
+  "unfinished_leases": [],
+  "no_overlap": true,
+  "full_interval_complete": false,
+  "independent_arithmetic_replay": false
+}
